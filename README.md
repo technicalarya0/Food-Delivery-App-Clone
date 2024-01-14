@@ -1,6 +1,6 @@
-## Zomato Clone: Your Food Delivery App
+##Food Delivery App
 
-**Zomato Clone is food delivery app clone; it's a journey into culinary discovery and a celebration of deliciousness. Get ready to tantalize your taste buds with Zomato Clone, a React and Redux-powered food delivery app that delivers delicious experiences straight to your fingertips.**
+**Food Delivery App Clone is food delivery app clone; it's a journey into culinary discovery and a celebration of deliciousness. Get ready to tantalize your taste buds with Food Delivery App Clone, a React and Redux-powered food delivery app that delivers delicious experiences straight to your fingertips.**
 
 **Features:**
 
@@ -13,7 +13,6 @@
 
 * **React:** A powerful JavaScript library for building dynamic user interfaces.
 * **Redux:** A state management library that helps keep your app organized and predictable.
-* **Auth0:** A secure and flexible authentication platform for seamless user login.
 
 **Get started in no time:**
 
@@ -32,7 +31,7 @@
   
 ## Demo
 
-Link:- https://https://food-delivery-clone-done.netlify.app/
+Link:- food-delivery-clone-done.netlify.app/
 
 ## Installation
 
