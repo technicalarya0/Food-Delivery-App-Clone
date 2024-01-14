@@ -31,7 +31,7 @@
   
 ## Demo
 
-Link:- food-delivery-clone-done.netlify.app/
+Link:- https://food-delivery-clone-done.netlify.app/
 
 ## Installation
 
