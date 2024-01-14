@@ -32,7 +32,7 @@
   
 ## Demo
 
-Link:- https://zomato-food-app.netlify.app/
+Link:- https://https://food-delivery-clone-done.netlify.app/
 
 ## Installation
 
